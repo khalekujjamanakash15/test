@@ -1,0 +1,48 @@
+body{
+    background: #5195ee;
+}
+
+/* td{
+    width: 50%;
+} */
+table{
+    width: 1270px;
+    margin: auto;
+}
+.fst{
+    font-size: 50px;
+    color: beige;
+    text-shadow: 2px 2px #000000;
+}
+
+form{
+    width: 400px;
+    height: 450px;
+    background: #ffffff;
+    text-align: center ;
+}
+form h2, label{
+    color: #2869a8;
+    font-weight: 600;
+    text-shadow: 1px 1px #000000;
+}
+
+.rd{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+.th{
+    line-height: 40px;
+}
+.rth{
+    letter-spacing: 10px;
+}
+\
+
+.fff{
+    width: 100%;
+}
